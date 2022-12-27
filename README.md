@@ -1,2 +1,6 @@
 # Pagina_para_sorteio
-Página para sorteio usando HTML, CSS e JS.
+- (PT-BR) Página para sorteio usando HTML, CSS e JS.
+
+- (EN) Giveaway page using HTML, CSS and JS.
+
+- Live Site URL:
